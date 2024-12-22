@@ -1,0 +1,11 @@
+<html>
+
+<head>
+    <script src="scripts.js"></script>
+</head>
+<body>
+    
+</body>
+</html>for (let index = 1; index <= 10; index++) {
+    console.registro log(index);
+ }
